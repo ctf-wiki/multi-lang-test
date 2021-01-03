@@ -1,822 +1,822 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/</loc>
+     <loc>https://ctf-wiki.org/en/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/introduction/history/</loc>
+     <loc>https://ctf-wiki.org/en/introduction/history/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/introduction/mode/</loc>
+     <loc>https://ctf-wiki.org/en/introduction/mode/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/introduction/content/</loc>
+     <loc>https://ctf-wiki.org/en/introduction/content/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/introduction/experience/</loc>
+     <loc>https://ctf-wiki.org/en/introduction/experience/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/introduction/cgc/</loc>
+     <loc>https://ctf-wiki.org/en/introduction/cgc/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/introduction/resources/</loc>
+     <loc>https://ctf-wiki.org/en/introduction/resources/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/basic/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/basic/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/classical/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/classical/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/classical/monoalphabetic/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/classical/monoalphabetic/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/classical/polyalphabetic/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/classical/polyalphabetic/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/classical/others/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/classical/others/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/classical/summary/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/classical/summary/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/intro/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/intro/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/prng/intro/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/prng/intro/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/prng/csprng/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/prng/csprng/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/prng/problem/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/prng/problem/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/lcg/intro/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/lcg/intro/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/lcg/challenge/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/lcg/challenge/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/fsr/intro/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/fsr/intro/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/fsr/lfsr/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/fsr/lfsr/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/fsr/nfsr/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/fsr/nfsr/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/streamcipher/special/rc4/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/special/rc4/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/arx-operations/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/arx-operations/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/des/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/des/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/idea/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/idea/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/aes/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/aes/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/simon-speck/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/simon-speck/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/padding/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/padding/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/ecb/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/ecb/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/cbc/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/cbc/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/pcbc/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/pcbc/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/cfb/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/cfb/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/ofb/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/ofb/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/ctr/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/ctr/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/blockcipher/mode/padding-oracle-attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/blockcipher/mode/padding-oracle-attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_theory/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_theory/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_module_attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_module_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_e_attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_e_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_d_attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_d_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_coppersmith_attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_coppersmith_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_chosen_plain_cipher/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_chosen_plain_cipher/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_side_channel/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_side_channel/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_pkcs_attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_pkcs_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/rsa/rsa_complex/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/rsa/rsa_complex/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/knapsack/knapsack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/knapsack/knapsack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/discrete-log/discrete-log/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/discrete-log/discrete-log/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/discrete-log/elgamal/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/discrete-log/elgamal/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/discrete-log/ecc/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/discrete-log/ecc/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/lattice/overview/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/lattice/overview/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/lattice/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/lattice/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/lattice/lattice-reduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/lattice/lattice-reduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/asymmetric/lattice/cvp/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/asymmetric/lattice/cvp/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/hash/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/hash/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/hash/md5/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/hash/md5/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/hash/sha1/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/hash/sha1/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/hash/fnv/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/hash/fnv/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/hash/attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/hash/attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/hash/complex/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/hash/complex/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/signature/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/signature/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/signature/rsa/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/signature/rsa/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/signature/elgamal/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/signature/elgamal/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/signature/dsa/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/signature/dsa/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/attack-summary/attack-mode/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/attack-summary/attack-mode/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/attack-summary/meet-in-the-middle/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/attack-summary/meet-in-the-middle/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/attack-summary/bit-attack/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/attack-summary/bit-attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/crypto/certificate/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/crypto/certificate/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/web/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/web/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/web/sqli/</loc>
+     <loc>https://ctf-wiki.org/en/web/sqli/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/web/xss/</loc>
+     <loc>https://ctf-wiki.org/en/web/xss/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/web/csrf/</loc>
+     <loc>https://ctf-wiki.org/en/web/csrf/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/web/ssrf/</loc>
+     <loc>https://ctf-wiki.org/en/web/ssrf/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/web/php/php/</loc>
+     <loc>https://ctf-wiki.org/en/web/php/php/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/assembly/x86-x64/readme/</loc>
+     <loc>https://ctf-wiki.org/en/assembly/x86-x64/readme/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/assembly/mips/readme/</loc>
+     <loc>https://ctf-wiki.org/en/assembly/mips/readme/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/assembly/arm/readme/</loc>
+     <loc>https://ctf-wiki.org/en/assembly/arm/readme/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/basic-info/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/basic-info/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/sections/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/sections/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/code-sections/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/code-sections/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/data-related-sections/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/data-related-sections/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/symbol-table/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/symbol-table/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/strings-sections/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/strings-sections/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/dynamic-sections/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/dynamic-sections/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/structure/misc-sections/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/structure/misc-sections/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/program-loading/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/program-loading/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/linking/program-linking/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/linking/program-linking/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/linking/symbol-resolve/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/linking/symbol-resolve/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/executable/elf/running-overview/</loc>
+     <loc>https://ctf-wiki.org/en/executable/elf/running-overview/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/identify-encode-encryption/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/identify-encode-encryption/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/maze/maze/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/maze/maze/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/vm/vm/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/vm/vm/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/unicorn/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/unicorn/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/linux/ld_preload/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/linux/ld_preload/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/linux/false-disasm/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/linux/false-disasm/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/linux/detect-bp/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/linux/detect-bp/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/linux/detect-dbg/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/linux/detect-dbg/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/packer-introduction/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/packer-introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/trace/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/trace/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/esp/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/esp/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/direct-oep/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/direct-oep/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/memory/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/memory/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/last-exception/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/last-exception/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/sfx/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/sfx/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/fix-iat/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/fix-iat/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/manually-fix-iat/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/manually-fix-iat/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/unpack/unpack-dll/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/unpack/unpack-dll/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/ntglobalflag/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/ntglobalflag/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/heap-flags/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/heap-flags/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/the-heap/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/the-heap/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/int-3/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/int-3/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/isdebuggerpresent/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/isdebuggerpresent/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/checkremotedebuggerpresent/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/checkremotedebuggerpresent/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/ntqueryinformationprocess/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/ntqueryinformationprocess/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/zwsetinformationthread/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/zwsetinformationthread/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/junk-code/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/junk-code/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/reverse/windows/anti-debug/example/</loc>
+     <loc>https://ctf-wiki.org/en/reverse/windows/anti-debug/example/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/readme/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/readme/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/mitigation/canary/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/mitigation/canary/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/stack-intro/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/stack-intro/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/stackoverflow-basic/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/stackoverflow-basic/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/basic-rop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/basic-rop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/medium-rop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/medium-rop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/advanced-rop/advanced-rop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/advanced-rop/advanced-rop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/advanced-rop/ret2dlresolve/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/advanced-rop/ret2dlresolve/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/advanced-rop/ret2vdso/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/advanced-rop/ret2vdso/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/advanced-rop/srop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/advanced-rop/srop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/stackoverflow/fancy-rop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/stackoverflow/fancy-rop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/fmtstr/fmtstr_intro/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/fmtstr/fmtstr_intro/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/fmtstr/fmtstr_exploit/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/fmtstr/fmtstr_exploit/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/fmtstr/fmtstr_example/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/fmtstr/fmtstr_example/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/fmtstr/fmtstr_detect/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/fmtstr/fmtstr_detect/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/heap_overview/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/heap_overview/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/heap_structure/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/heap_structure/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/overview/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/overview/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/basic/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/basic/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/heap-init/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/heap-init/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/malloc/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/malloc/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/free/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/free/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/tcache/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/tcache/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/malloc_state/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/malloc_state/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/implementation/misc/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/implementation/misc/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/heapoverflow_basic/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/heapoverflow_basic/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/off_by_one/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/off_by_one/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/chunk_extend_overlapping/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/chunk_extend_overlapping/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/unlink/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/unlink/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/use_after_free/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/use_after_free/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/fastbin_attack/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/fastbin_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/unsorted_bin_attack/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/unsorted_bin_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/large_bin_attack/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/large_bin_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/tcache_attack/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/tcache_attack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/house_of_einherjar/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/house_of_einherjar/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/house_of_force/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/house_of_force/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/house_of_lore/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/house_of_lore/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/house_of_orange/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/house_of_orange/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/house_of_rabbit/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/house_of_rabbit/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/glibc-heap/house_of_roman/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/glibc-heap/house_of_roman/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/io_file/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/io_file/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/io_file/fake-vtable-exploit/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/io_file/fake-vtable-exploit/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/io_file/fsop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/io_file/fsop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/io_file/exploit-in-libc2.24/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/io_file/exploit-in-libc2.24/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/race-condition/introduction/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/race-condition/introduction/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/race-condition/problem/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/race-condition/problem/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/integeroverflow/intof/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/integeroverflow/intof/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/sandbox/python-sandbox-escape/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/sandbox/python-sandbox-escape/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/kernel/environment/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/kernel/environment/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/kernel/basic_knowledge/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/kernel/basic_knowledge/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/kernel/kernel_uaf/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/kernel/kernel_uaf/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/kernel/kernel_rop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/kernel/kernel_rop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/kernel/ret2usr/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/kernel/ret2usr/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/kernel/bypass_smep/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/kernel/bypass_smep/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/kernel/double-fetch/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/kernel/double-fetch/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/arm/environment/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/arm/environment/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/arm/arm_rop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/arm/arm_rop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/mips/mips_rop/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/mips/mips_rop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/summary/get-address/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/summary/get-address/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/summary/hijack-control-flow/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/summary/hijack-control-flow/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/linux/summary/get-shell/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/linux/summary/get-shell/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/windows/readme/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/windows/readme/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/windows/stackoverflow/stack-introduce/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/windows/stackoverflow/stack-introduce/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/windows/stackoverflow/stackoverflow-basic/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/windows/stackoverflow/stackoverflow-basic/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/pwn/windows/stackoverflow/shellcode-in-stack/</loc>
+     <loc>https://ctf-wiki.org/en/pwn/windows/stackoverflow/shellcode-in-stack/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_develop/basic_develop/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_develop/basic_develop/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_operating_mechanism/readme/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_operating_mechanism/readme/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_operating_mechanism/java_layer/readme/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_operating_mechanism/java_layer/readme/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_operating_mechanism/java_layer/smali/smali/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_operating_mechanism/java_layer/smali/smali/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_operating_mechanism/java_layer/dex/dex/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_operating_mechanism/java_layer/dex/dex/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_operating_mechanism/java_layer/dex/odex/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_operating_mechanism/java_layer/dex/odex/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_operating_mechanism/native_layer/so/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_operating_mechanism/native_layer/so/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_reverse/overview/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_reverse/overview/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_reverse/android_code_location/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_reverse/android_code_location/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_reverse/static/java-example/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_reverse/static/java-example/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_reverse/static/so-example/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_reverse/static/so-example/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_reverse/static/complex-example/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_reverse/static/complex-example/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_reverse/dynamic/dynamic_debug/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_reverse/dynamic/dynamic_debug/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/android/basic_reverse/dynamic/ida_native_debug/</loc>
+     <loc>https://ctf-wiki.org/en/android/basic_reverse/dynamic/ida_native_debug/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/ics/ctfs/</loc>
+     <loc>https://ctf-wiki.org/en/ics/ctfs/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/ics/discover/</loc>
+     <loc>https://ctf-wiki.org/en/ics/discover/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/ics/exploit/</loc>
+     <loc>https://ctf-wiki.org/en/ics/exploit/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.github.io/ctf-wiki/en/ics/learn/</loc>
+     <loc>https://ctf-wiki.org/en/ics/learn/</loc>
      <lastmod>2021-01-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
