@@ -40,10 +40,20 @@ jobs:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: site # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
+      - name: Deploy to Netlify
+        id: netlify
+        uses: nwtgck/actions-netlify@v1.1.5
+        with:
+          publish-dir: './site'
+          production-deploy: false
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          enable-commit-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
-
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
