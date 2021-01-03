@@ -1,7 +1,7 @@
 site_name: CTF Wiki
 site_description: CTF Wiki
 site_author: CTF Wiki Team
-site_url: https://ctf-wiki.github.io/ctf-wiki/en/
+site_url: https://ctf-wiki.org/en/
 repo_name: ctf-wiki/ctf-wiki
 repo_url: https://github.com/ctf-wiki/ctf-wiki
 edit_uri: blob/master/docs/
@@ -15,7 +15,7 @@ theme:
     scheme: preference
   icon:
     repo: fontawesome/brands/github-alt
-  logo: https://ctf-wiki.github.io/ctf-wiki/_static/img/logo.png
+  logo: https://ctf-wiki.org/_static/img/logo.png
   features:
   - navigation.tabs
   font:
@@ -66,7 +66,7 @@ extra:
   copyright: CC BY-NC-SA 4.0
 extra_javascript:
 - https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js
-- https://ctf-wiki.github.io/ctf-wiki/_static/js/extra.js
+- https://ctf-wiki.org/_static/js/extra.js
 - https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML
 extra_css:
-- https://ctf-wiki.github.io/ctf-wiki/_static/css/extra.css
+- https://ctf-wiki.org/_static/css/extra.css
