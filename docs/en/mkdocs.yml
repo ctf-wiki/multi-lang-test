@@ -18,11 +18,17 @@ theme:
   logo: https://ctf-wiki.org/_static/img/logo.png
   features:
   - navigation.tabs
+  - navigation.tabs.sticky
+  - search.suggest
+  - search.highlight
+  - search.share
   font:
     text: Noto Sans
     code: Source Code Pro
 plugins:
 - search
+- minify:
+    minify_html: true
 nav:
 - Start:
   - index.md
