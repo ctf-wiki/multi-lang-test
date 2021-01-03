@@ -103,6 +103,10 @@ def new_lang(lang: str = typer.Argument(..., callback=lang_callback)):
     )
     new_config_docs_path: Path = new_path / "docs"
     new_config_docs_path.mkdir()
+
+    new_overrides_path: Path = new_path / "overrides"
+    shutil.copytree(docs_root_path/default_lang/"overrides", new_overrides_path)
+
     default_index_path: Path = default_docs_path / "docs" / "index.md"
     new_index_path: Path = new_config_docs_path / "index.md"
 
