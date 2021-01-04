@@ -58,6 +58,8 @@ mkdocs serve
 
 If you just want to view it statically, try Docker!
 
+> Note: after using mkdocs-material-insiders, we haven't support building website with docker.
+
 ```
 docker run -d --name=ctf-wiki -p 4100:80 ctfwiki/ctf-wiki
 ```
@@ -70,14 +72,13 @@ Firstly, learn some basic security knowledge through online reading.
 Secondly, CTF Wiki has two sister projects.
 
 - All of the challenges that are mentioned are in the [ctf-challenges](https://github.com/ctf-wiki/ctf-challenges) repository, you can locate them with their corresponding category.
-  - Note: There are still some topics that are still being migrated. . . (misc, web)
 - The tools mentioned in the CTF Wiki are constantly added to the [ctf-tools](https://github.com/ctf-wiki/ctf-tools) repository.
 
 ## How to make CTF Wiki Better？
 
 We welcome to write content for the wiki and share what you have learned. 
 
-**Before you decide to contribute content, please read [CONTRIBUTING](https://github.com/ctf-wiki/ctf-wiki/wiki/Contribution-Guide)**.
+**Before you decide to contribute content, please read [CONTRIBUTING](https://ctf-wiki.org/en/contributing)**.
 
 Thank you to all the people who have already contributed to CTF Wiki.
 

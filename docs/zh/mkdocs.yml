@@ -10,9 +10,18 @@ theme:
   name: material
   language: zh
   palette:
-    primary: white
-    accent: red
-    scheme: preference
+  - scheme: default
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+  - scheme: slate
+    primary: blue
+    accent: blue
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
   icon:
     repo: fontawesome/brands/github-alt
   logo: _static/img/logo.png
@@ -32,6 +41,7 @@ plugins:
 nav:
 - Start:
   - index.md
+  - contributing.md
 - Introduction:
   - introduction/history.md
   - introduction/mode.md
