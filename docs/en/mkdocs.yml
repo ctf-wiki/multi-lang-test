@@ -10,18 +10,9 @@ theme:
   name: material
   language: en
   palette:
-  - scheme: default
-    primary: indigo
-    accent: indigo
-    toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode
-  - scheme: slate
-    primary: blue
-    accent: blue
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to dark mode
+    primary: white
+    accent: red
+    scheme: preference
   icon:
     repo: fontawesome/brands/github-alt
   logo: https://ctf-wiki.org/_static/img/logo.png
