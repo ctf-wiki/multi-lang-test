@@ -16,6 +16,19 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - uses: actions/checkout@v2
+      - name: Download Artifact Docs
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          workflow: build-for-netlify.yml
+          run_id: ${{ github.event.workflow_run.id }}
+          name: site-zip
+      - name: Unzip Site
+        run: |
+          rm -rf ./site
+          unzip site.zip
+          rm -f site.zip
       - name: Deploy to Netlify
         id: netlify
         uses: nwtgck/actions-netlify@v1.1.5
