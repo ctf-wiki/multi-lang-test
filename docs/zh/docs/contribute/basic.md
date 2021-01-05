@@ -1,7 +1,5 @@
 # 贡献指南
 
-## 写在开头
-
 维护 CTF Wiki 对于个人能力没有太多要求，关键是喜欢开源，愿意花时间做，把自己的所学与他人分享。
 
 在维护 CTF Wiki 的过程中，没有任何指派性的任务，想写什么就写什么，觉得 Wiki 哪里写的不好就完善哪里。
@@ -9,11 +7,6 @@
 如果觉得之前的人写得不好，可以与其讨论，将其打造为更为合理的结构。
 
 **请务必在看完本部分所有内容后再开始贡献。**
-
-
-## 交流方式
-
-本项目主要使用 Issue，Discussion 以及 Slack 进行交流沟通。Slack 的团队名为 [CTF-Wiki](https://ctf-wiki.slack.com/join/shared_invite/enQtNTkwNDg5NDUzNzAzLTQ3YTliNzI5OGNhM2NmNzI3NTU0YWRlNWFkY2EzYTExN2Y3ZjRkNzYzYmRhNDNlYmY5YTVmNjNhYjliZDgyNTY)，欢迎加入。
 
 ## 贡献方式
 
