@@ -1,3 +1,4 @@
+# modified from https://github.com/tiangolo/fastapi/blob/master/.github/workflows/preview-docs.yml
 name: Deploy to Netlify
 
 on:
@@ -40,3 +41,8 @@ jobs:
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      - name: Comment Deploy
+        uses: ./.github/actions/comment-docs-preview-in-pr
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_url: "${{ steps.netlify.outputs.deploy-url }}"
