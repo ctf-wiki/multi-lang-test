@@ -32,12 +32,11 @@ jobs:
           rm -f site.zip
       - name: Deploy to Netlify
         id: netlify
-        uses: nwtgck/actions-netlify@v1.1.5
+        uses: nwtgck/actions-netlify@v1.1
         with:
           publish-dir: 'site'
           production-deploy: false
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          enable-commit-comment: false
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
