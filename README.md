@@ -12,11 +12,11 @@ Welcome to **CTF Wiki**！
 
 **CTF** covers a wide range of fields. Along with the evolving security technology, the difficulty of **CTF** challenges is getting harder and harder. As a result, the learning curve for beginners is getting steeper. Most online information is scattered and trivial. Beginners often don't know how to systematically learn **CTF**, which requires a lot of work and effort.
 
-In order to let those people who are interested in **CTF**s start easily, in October 2016, **CTF Wiki** was establisged on Github. Along with gradually improved content over time, **CTF Wiki** has received lots of appreciation from security enthusiasts, many of those are guys that we think we would never meet.
+In order to let those people who are interested in **CTF**s start easily, in October 2016, **CTF Wiki** was established on Github. Along with gradually improved content over time, **CTF Wiki** has received lots of appreciation from security enthusiasts, many of those are guys that we think we would never meet.
 
 As a freedom site, primarily focusing on recent CTFs, **CTF Wiki** introduces the knowledge and techniques in all aspects of **CTF** to make it easier for beginners to learn **CTF**.
 
-Now, **CTF Wiki** mainly contains the basic skill-set for **CTF**, but we are working hard to improve the following contents.
+Now, **CTF Wiki** mainly contains the basic skills for **CTF**, but we are working hard to improve the following contents.
 
 - Advanced skills used in CTF
 - Special topics appearing in CTF
