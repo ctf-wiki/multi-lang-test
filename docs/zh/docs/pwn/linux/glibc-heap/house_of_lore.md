@@ -1,4 +1,3 @@
-
 # House of Lore
 
 ## 概述

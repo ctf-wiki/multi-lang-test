@@ -1,4 +1,3 @@
-
 # PCBC
 
 PCBC 的全称为明文密码块链接（Plaintext cipher-block chaining）。也称为填充密码块链接（Propagating cipher-block chaining）。

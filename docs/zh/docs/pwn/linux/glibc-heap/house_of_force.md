@@ -1,4 +1,3 @@
-
 # House Of Force
 
 ## 介绍
