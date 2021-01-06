@@ -32,7 +32,6 @@ plugins:
 nav:
 - Start:
   - index.md
-  - contributing.md
 - Crypto:
   - 基础数学知识:
     - crypto/basic/introduction.md
