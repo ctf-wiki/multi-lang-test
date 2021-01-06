@@ -33,10 +33,11 @@ nav:
 - Start:
   - index.md
   - discussion.md
-  - contribute/before-contributing.md
-  - contribute/basic-contribute-approach.md
-  - contribute/documentation-requirement.md
-  - contribute/translation.md
+  - 贡献指南:
+    - contribute/before-contributing.md
+    - contribute/basic-contribute-approach.md
+    - contribute/documentation-requirement.md
+    - contribute/translation.md
 - Introduction:
   - introduction/history.md
   - introduction/mode.md
