@@ -15,7 +15,7 @@
 然后，我们可以打开中文对应的 mkdocs.yml，即 `docs/zh/docs/mkdocs.yml`，找到我们想要翻译的文件所在的位置，比如
 
 
- ```yaml hl_lines="8"
+```yaml hl_lines="8"
 nav:
 - Start:
   - index.md
