@@ -24,7 +24,7 @@ nav:
   - contribute/basic-contribute-approach.md
   - contribute/documentation-requirement.md
   - contribute/translation.md
- ```
+```
 
 那我们应该在英语的配置文件中相应的层次结构处添加对应的文件。
 
