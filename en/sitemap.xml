@@ -92,10 +92,6 @@
      <lastmod>2021-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://ctf-wiki.org/en/crypto/streamcipher/special/rc4/</loc>
-     <lastmod>2021-01-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://ctf-wiki.org/en/crypto/streamcipher/lcg/intro/</loc>
      <lastmod>2021-01-06</lastmod>
      <changefreq>daily</changefreq>
@@ -113,6 +109,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://ctf-wiki.org/en/crypto/streamcipher/fsr/nfsr/</loc>
+     <lastmod>2021-01-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://ctf-wiki.org/en/crypto/streamcipher/special/rc4/</loc>
      <lastmod>2021-01-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
